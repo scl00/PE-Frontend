@@ -1,3 +1,28 @@
 .navbar{
   background-color: #194E80;
 }
+
+.slide img {
+  height: 87vh;
+}
+
+.card {
+  margin-top: 50px;
+  margin: 20px;
+}
+
+.card-body {
+  background-color: #194E80;
+}
+
+.card-title {
+  color: white;
+}
+
+.card-text {
+  color: white;
+}
+
+.container-fluid {
+  height: 40vh;
+}
