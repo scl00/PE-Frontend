@@ -26,3 +26,10 @@
 .container-fluid {
   height: 40vh;
 }
+
+.jumbotron {
+  color: #fff;
+  background: #194E80;
+  background-size: cover;
+  overflow: hidden;
+}
