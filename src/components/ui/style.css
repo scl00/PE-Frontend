@@ -35,10 +35,10 @@
 }
 
 footer{
-  width: 100%;
-  background: #202020;
+  height: 50vh;
+  background: #194E80;
   color: white;   
-  
+  margin-top: 15px;
 }
 
 .container-footer-all{
@@ -62,9 +62,9 @@ footer{
 }
 
 .colum1 p{
-  font-size: 14px;
+  font-size: 10px;
   color: #C7C7C7;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .colum2{
@@ -74,6 +74,11 @@ footer{
 
 .colum2 h1{
   font-size: 22px;
+}
+
+.colum2 p{
+  color: #C7C7C7;
+  margin-left: 20px;
 }
 
 .iconos{
@@ -100,6 +105,11 @@ footer{
   font-size: 22px;
 }
 
+.colum3 p{
+  color: #C7C7C7;
+  margin-left: 20px;
+}
+
 .row2{
   margin-top: 20px;
   display: flex;
@@ -118,7 +128,7 @@ footer{
 
 .container-footer{
   width: 100%;  
-  background: #101010;
+  background: gray;
 }
 
 .footer{
